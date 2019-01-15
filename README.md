@@ -19,7 +19,7 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 * The navigation system is very simple. Just different cathegories on the top of the page, as well as a couple of drop down menus in some of those cathegories. 
 * Not a lot of interactive stuff. Navigation menu, photos and tags. It's mostly just the change of the colour of the object after hovering over it. A lot of links to other pages and an option to type in the users' email.
 * I like it a lot. I thought it was really cool and unique the first time I saw it. Looks super stylish and I think it really suits the theme. Very cool layout and the moving text on the left side of the page makes it even cooler. I was pleased to see that there's no fixed bar at the top af the page, beacuse I think those are ridiculous. The colours used are great! Not super saturated, almost pastel. I'm a fan.
-* The way they list the items they're selling is a bit cofusing and not very familiar for the users. So I would probably change that and make it a bit more clear.
+* The way they list the items they're selling is a bit confusing and not very familiar for the users. So I would probably change that and make it a bit more clear.
 
 
 ---
