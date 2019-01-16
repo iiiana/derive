@@ -46,17 +46,24 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 ---
 ## Site 4
 * https://www.alexia-clark.com/?utm_expid=.jrdTZNkLRqyk4sq-2aiZrQ.0&utm_referrer=
-* I get my workouts from this website.
+* My sister recommeded this webstite to me. I get my workouts from there.
 * It looks very current and simple. Good combination for a fitness trainers' webpage. 
-* There is no navigation system at all in the desktop version of the website, but there is a drop down menu in the mobile version of it. That seems weird. The drop down menu is very straight forward and gets wherever you need to go.
+* There is no navigation system at all in the desktop version of the website, but there is a drop down menu in the mobile version of it. That seems weird. The drop down menu is very straight forward and gets you wherever you need to go.
 * There is no interactivity in this website except for the sing up and sign in forms. 
 * I believe this website is useful and gives the right impression to the potential customers. It also looks pretty feminine, which is fortunate considering that the target audience is mostly women. I like the use of the gradient on the video in the background. 
 * I would definitely add the navigation system to the desktop version.
 
 
-
 ---
 ## Site 5
+* http://htarchitecte.com/en/contact/
+* Found it on a random website generator.
+* It looks very sleek and spacious. There is a lot of interesting moving elements used in the design, they make it look very appealing.
+Nice colour palette. The typography and photography is what stands out in this design.
+* Navigation system is located at the top of the page. It is simple and familiar, contains only 4 links. The menu bar is fixed to the page, so it is still visible when you scroll down. There is the same menu on the bottom of the page as well. 
+* There is not a lot interactivity in this website even though there's a lot of movement. There is an option of scrolling through the pictures on the front page, the arrows switch once you hover over them and the background colour slightly changes. There is also a slight zoom in on the picture once you hover the mouse over it, on the front page as well as the News page. Clickable picture on the Firm page.
+* I like this website a lot. It looks very modern and gives an almost luxirious vibe. The layout is very simple but effective, all the moving elements and interestingly shaped photos bring the whole design together. I like the anagram of the brand scattered around the page and fixed. Love the use of the negative space, the pages don't look crowded or empty, they look just right. 
+* I would probably increase the speed of the transition between the pages, because it seems like it's a bit too slow. 
 
 
 
