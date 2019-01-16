@@ -24,18 +24,34 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 2
-
-
+* http://alick666.kiev.ua/
+* I was searching for tatoo studios in Kiev and that was the first website that came up.
+* Looks dated. Like it was created in 2008 and haven't been updated ever since. Colours, typography and lack of using negative space is what makes it look old.
+* Navigation system is very straight-forward. Menu on the side and at the top. Easy to navigate, familiar to the user. 
+* No interactive parts except for the text changing its' colour once you hover over it. 
+* I don't like it. Gives me the feeling that the tattoo artist who owns this website is not trustworthy. But even though it looks atrocious it is pretty functional.
+* It's easier to say what I would not change about it. But first I think I would do is make it look like it belongs in 2019, hence make it look modern. 
 
 ---
 ## Site 3
-
-
+* https://www.tattoopeople.ca/
+* This is a website of the tattoo studio that my tattoo artist works at. I found the link to it when I found my tattoo artists' Instagram page. 
+* Nothing interesting about it, looks very simple and functional, which I believe is a good thing. 
+* Navigation system is located right in the middle of the page. That kind of location makes it extremely easy to navigate through. Drop down menu appears on the top of the page in the mobile version. 
+* Again, not a lot of interactivity. Drop down menu and clickable photos. The pages fade away and appear once you go to another page on the website. 
+* This website is very simple and functional, which doesn't make it the most memorable website out there. It sure does it's job though. I like the fact that they're only using black and white colour scheme. Love the front page with the logo placed over the photo, it gives a certain vibe. 
+* I would add more interactivity and movement to this website. That would make it way more interesting.
 
 
 ---
 ## Site 4
-
+* https://www.alexia-clark.com/?utm_expid=.jrdTZNkLRqyk4sq-2aiZrQ.0&utm_referrer=
+* I get my workouts from this website.
+* It looks very current and simple. Good combination for a fitness trainers' webpage. 
+* There is no navigation system at all in the desktop version of the website, but there is a drop down menu in the mobile version of it. That seems weird. The drop down menu is very straight forward and gets wherever you need to go.
+* There is no interactivity in this website except for the sing up and sign in forms. 
+* I believe this website is useful and gives the right impression to the potential customers. It also looks pretty feminine, which is fortunate considering that the target audience is mostly women. I like the use of the gradient on the video in the background. 
+* I would definitely add the navigation system to the desktop version.
 
 
 
