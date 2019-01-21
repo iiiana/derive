@@ -14,23 +14,23 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 ---
 ## Site 1
 * https://www.collusion.com/
-* I was looking for the new jeans in different online stores and accindentally stumbled upon this website.
+* I was looking for the new jeans in different online stores and accidentally stumbled upon this website.
 * It looks very trendy. Because of the layout, colours, photography and typefaces used.
-* The navigation system is very simple. Just different cathegories on the top of the page, as well as a couple of drop down menus in some of those cathegories. 
+* The navigation system is very simple. Just different categories on the top of the page, as well as a couple of drop-down menus in some of those categories. 
 * Not a lot of interactive stuff. Navigation menu, photos and tags. It's mostly just the change of the colour of the object after hovering over it. A lot of links to other pages and an option to type in the users' email.
-* I like it a lot. I thought it was really cool and unique the first time I saw it. Looks super stylish and I think it really suits the theme. Very cool layout and the moving text on the left side of the page makes it even cooler. I was pleased to see that there's no fixed bar at the top af the page, beacuse I think those are ridiculous. The colours used are great! Not super saturated, almost pastel. I'm a fan.
+* I like it a lot. I thought it was really cool and unique the first time I saw it. Looks super stylish and I think it really suits the theme. Very cool layout and the moving text on the left side of the page makes it even cooler. I was pleased to see that there's no fixed bar at the top of the page, because I think those are ridiculous. The colours used are great! Not super saturated, almost pastel.
 * The way they list the items they're selling is a bit confusing and not very familiar for the users. So I would probably change that and make it a bit more clear.
 
 
 ---
 ## Site 2
 * http://alick666.kiev.ua/
-* I was searching for tatoo studios in Kiev and that was the first website that came up.
-* Looks dated. Like it was created in 2008 and haven't been updated ever since. Colours, typography and lack of using negative space is what makes it look old.
-* Navigation system is very straight-forward. Menu on the side and at the top. Easy to navigate, familiar to the user. 
+* I was searching for tattoo studios in Kiev and that was the first website that came up.
+* Looks dated. Like it was created in 2008 and haven't been updated ever since. Colours, typography and lack of negative space is what makes it look old.
+* Navigation system is very straight-forward. The menu on the side and at the top. Easy to navigate, familiar to the user. 
 * No interactive parts except for the text changing its' colour once you hover over it. 
-* I don't like it. Gives me the feeling that the tattoo artist who owns this website is not trustworthy. But even though it looks atrocious it is pretty functional.
-* It's easier to say what I would not change about it. But first I think I would do is make it look like it belongs in 2019, hence make it look modern. 
+* I don't like it. Gives me the feeling that the tattoo artist who owns this website is not trustworthy. But even though it looks atrocious it is fairly functional.
+* It's easier to say what I would not change about it. But the first thing I think I would do is make it look like it belongs in 2019, make it look modern. 
 
 ---
 ## Site 3
@@ -46,11 +46,11 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 ---
 ## Site 4
 * https://www.alexia-clark.com/?utm_expid=.jrdTZNkLRqyk4sq-2aiZrQ.0&utm_referrer=
-* My sister recommeded this webstite to me. I get my workouts from there.
+* My sister recommended this website to me. I get my workouts from there.
 * It looks very current and simple. Good combination for a fitness trainers' webpage. 
-* There is no navigation system at all in the desktop version of the website, but there is a drop down menu in the mobile version of it. That seems weird. The drop down menu is very straight forward and gets you wherever you need to go.
+* There is no navigation system at all in the desktop version of the website, but there is a drop-down menu in the mobile version of it. That seems weird. The drop-down menu is very straight forward and gets you wherever you need to go.
 * There is no interactivity in this website except for the sing up and sign in forms. 
-* I believe this website is useful and gives the right impression to the potential customers. It also looks pretty feminine, which is fortunate considering that the target audience is mostly women. I like the use of the gradient on the video in the background. 
+* I believe this website is useful and gives the right impression to the potential customers. It also looks pretty feminine, which is great considering that the target audience is mostly women. I like the use of the gradient on the video in the background. 
 * I would definitely add the navigation system to the desktop version.
 
 
@@ -58,12 +58,11 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 ## Site 5
 * http://htarchitecte.com/en/contact/
 * Found it on a random website generator.
-* It looks very sleek and spacious. There is a lot of interesting moving elements used in the design, they make it look very appealing.
-Nice colour palette. The typography and photography is what stands out in this design.
+* It looks very sleek and spacious. There is a lot of interesting moving elements used in the design, they make it look very appealing. Nice colour palette. The typography and photography is what stands out in this design.
 * Navigation system is located at the top of the page. It is simple and familiar, contains only 4 links. The menu bar is fixed to the page, so it is still visible when you scroll down. There is the same menu on the bottom of the page as well. 
-* There is not a lot interactivity in this website even though there's a lot of movement. There is an option of scrolling through the pictures on the front page, the arrows switch once you hover over them and the background colour slightly changes. There is also a slight zoom in on the picture once you hover the mouse over it, on the front page as well as the News page. Clickable picture on the Firm page.
-* I like this website a lot. It looks very modern and gives an almost luxirious vibe. The layout is very simple but effective, all the moving elements and interestingly shaped photos bring the whole design together. I like the anagram of the brand scattered around the page and fixed. Love the use of the negative space, the pages don't look crowded or empty, they look just right. 
-* I would probably increase the speed of the transition between the pages, because it seems like it's a bit too slow. 
+* There is not a lot of interactivity in this website even though there's a lot of movement. There is an option of scrolling through the pictures on the front page, the arrows switch once you hover over them and the background colour slightly changes. There is also a slight zoom in on the picture once you hover over it on the front page as well as the News page. A clickable picture on the Firm page.
+* I like this website a lot. It looks very modern and gives an almost luxurious vibe. The layout is very simple but effective, all the moving elements and interestingly shaped photos bring the whole design together. I like the anagram of the brand scattered around the page and fixed. Love the use of the negative space, the pages don't look crowded or empty, they look just right. 
+* I would probably increase the speed of the transition between the pages because it seems like it's a bit too slow. 
 
 
 
